@@ -1,2 +1,1 @@
 baris 1 github
-baris 2 github
